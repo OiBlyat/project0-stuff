@@ -1,0 +1,4 @@
+<?php
+$out-test = "<html>\n<head>\n</head>\n<body>\nMoin<br />\n</body>\n</html>\n";
+echo out-test;
+?>
